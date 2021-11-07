@@ -25,8 +25,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](https://www.baidu.com/img/PCfb_5bf082d29588c07f842ccde3f97243ea.png)
 ```
-![Image](https://www.baidu.com/img/PCfb_5bf082d29588c07f842ccde3f97243ea.png)
-改了
+![Image](./1518621812273.jpg)
+改了2
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
