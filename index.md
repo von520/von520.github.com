@@ -1,5 +1,5 @@
 ## 永远同在
-<audio id="audio" controls="" preload=true>
+<audio id="audio" controls="" preload=true autoplay=true>
       <source id="mp3" src="./forever.mp3">
       </audio>
 
